@@ -1,19 +1,20 @@
-# Análisis de Datos
+This repository contains a collection of data analysis projects developed in Python:
 
-Este repositorio contiene varios archivos de análisis de datos para proyectos en diferentes áreas. Los archivos están escritos en Jupyter Notebook (.ipynb) y contienen análisis, visualizaciones y conclusiones sobre conjuntos de datos específicos.
+## Projects Overview
 
-## Archivos
+### 1. Food Analysis (`food.ipynb`)
+Analyzes food data to answer questions about vitamin C sources, calorie relationships, the impacts of no-carb diets, and validates caloric values through linear modeling.
 
-- **`food.ipynb`**: Análisis de datos relacionado con el consumo de alimentos. Incluye visualizaciones y estadísticas sobre patrones de consumo y tendencias.
-  
-- **`crime.ipynb`**: Análisis de datos de crímenes. Proporciona un estudio de tendencias de criminalidad, distribución geográfica y análisis temporal.
-  
-- **`games.ipynb`**: Board game analysis.
+### 2. Board Games Analysis (`games.ipynb`)
+Explores a dataset of over 20,000 board games from BoardGameGeek to help you choose the perfect game for your next game night.
 
-## Requisitos
+### 3. Crime Data Analysis (`crime.ipynb`)
+Assists the LAPD in understanding crime patterns in Los Angeles, helping to allocate resources effectively based on data-driven insights.
 
-Asegúrate de tener las siguientes dependencias instaladas para ejecutar los notebooks:
+### 4. Business Case: Sellers Growth (`sellers_growth.ipynb`)
+Assesses seller performance using the Olist dataset and features an interactive Power BI dashboard to visualize key insights and trends. 
+This project includes a PDF with the project assignment and another PDF explaining the methodology, conclusions, and recommendations. It also features a Power BI dashboard that showcases the main insights from the data.
+Please note that the responses for these case are provided in Spanish.
 
-- Python 3.x
-- Jupyter Notebook
-- Librerías: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn` (ajusta según las necesidades específicas de tu análisis)
+
+
